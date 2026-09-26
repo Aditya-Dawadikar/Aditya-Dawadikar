@@ -1,0 +1,15 @@
+[
+  { "text": "Everything fails, all the time.", "author": "Werner Vogels" },
+  { "text": "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.", "author": "Leslie Lamport" },
+  { "text": "Simplicity is prerequisite for reliability.", "author": "Edsger W. Dijkstra" },
+  { "text": "Premature optimization is the root of all evil.", "author": "Donald Knuth" },
+  { "text": "Make it work, make it right, make it fast.", "author": "Kent Beck" },
+  { "text": "There are only two hard things in Computer Science: cache invalidation and naming things.", "author": "Phil Karlton" },
+  { "text": "Clear is better than clever.", "author": "Rob Pike" },
+  { "text": "Don't communicate by sharing memory; share memory by communicating.", "author": "Rob Pike" },
+  { "text": "Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident.", "author": "Rob Pike" },
+  { "text": "Programs must be written for people to read, and only incidentally for machines to execute.", "author": "Harold Abelson" },
+  { "text": "The purpose of computing is insight, not numbers.", "author": "Richard Hamming" },
+  { "text": "All models are wrong, but some are useful.", "author": "George E. P. Box" },
+  { "text": "Hope is not a strategy.", "author": "traditional SRE saying" }
+]

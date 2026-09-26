@@ -1,0 +1,10 @@
+[
+  { "focus": "Agent OS: FastAPI + Redis Queue + Postgres", "thinking": "where the gap between p50 and p95 completion time comes from" },
+  { "focus": "ProjectYCJobs: agentic job research and matching", "thinking": "Redis Streams consumer groups for agent pipelines" },
+  { "focus": "evaluators for LLM applications", "thinking": "binary classifiers as judges: precision vs. recall trade-offs" },
+  { "focus": "Go WebSocket pub/sub (RayFlux)", "thinking": "fan-out cost per subscriber as pods scale out" },
+  { "focus": "parameter-efficient fine-tuning", "thinking": "which layers actually need adapters" },
+  { "focus": "observability for agent systems", "thinking": "tracing an agent run end to end across queues and retries" },
+  { "focus": "retrieval-augmented generation", "thinking": "retrieval quality vs. latency budgets" },
+  { "focus": "queue-backed backends", "thinking": "backpressure and retry storms in worker pools" }
+]

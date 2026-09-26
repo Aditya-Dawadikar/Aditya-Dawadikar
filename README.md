@@ -1,13 +1,53 @@
-<h1 align="center">Hi 👋, I'm Aditya Dawadikar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-dawadikar" alt="aditya-dawadikar" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya dawadikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya dawadikar" height="30" width="40" /></a>
-<a href="https://instagram.com/__geek_god" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__geek_god" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/static/hero.svg" width="100%" alt="Aditya Dawadikar: Backend, Distributed Systems, Agentic AI. MS Computer Science, San José State University." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </p>
+<p align="center">
+  <img src="./assets/generated/now.svg" width="100%" alt="Rotating daily status: current focus, an open question, and an engineering quote." />
+</p>
+
+### `~/currently-building`
+
+- **ProjectYCJobs**: agentic job research and matching on FastAPI, React, Postgres and Redis Streams.
+- **LLM evaluation**: evaluators and adapters around OpenEvals.
+
+<img src="./assets/static/divider.svg" width="100%" alt="" />
+
+### `~/selected-systems`
+
+<p align="center">
+  <img src="./assets/static/projects/agent-os.svg" width="100%" alt="Agent OS: FastAPI, Redis Queue, Postgres. Benchmark: 170 submissions, 121 successful completions, completion p50 5.95s, p95 20.61s." />
+</p>
+<p align="center">
+  <img src="./assets/static/projects/rayflux.svg" width="100%" alt="RayFlux: Go WebSocket pub/sub. 5,974 requests per second, p95 latency 160ms, 200 concurrent users across 5 pods." />
+</p>
+<p align="center">
+  <img src="./assets/static/projects/projectycjobs.svg" width="100%" alt="ProjectYCJobs: agentic job research and matching platform on FastAPI, React, Postgres and Redis Streams." />
+</p>
+
+### `~/open-source-and-research`
+
+<p align="center">
+  <img src="./assets/static/projects/act-lora.svg" width="49%" alt="Act-LoRA: activation-guided adapter layer selection. Roughly 50% fewer adapter parameters with near-baseline accuracy." />
+  <img src="./assets/static/projects/openevals.svg" width="49%" alt="OpenEvals: upstream contribution of a binary classifier evaluator, plus a Laya adapter proof of concept." />
+</p>
+
+### `~/stack`
+
+<p align="center">
+  <img src="./assets/static/stack.svg" width="100%" alt="Stack. Languages: Python, Go, TypeScript. Backend: FastAPI, React. Data: Postgres, Redis. Infra: Docker, Kubernetes, GCP, AWS. Focus: distributed systems, observability, RAG and agents, LLM evaluation." />
+</p>
+
+<img src="./assets/static/divider.svg" width="100%" alt="" />
+
+### `~/signals`
+
+<p align="center">
+  <img src="./assets/generated/stats.svg" width="49%" alt="GitHub stats for the last 12 months and top languages." />
+  <img src="./assets/generated/streak.svg" width="49%" alt="Current and longest contribution streak." />
+</p>
+<!-- <p align="center">
+  <img src="./assets/generated/contributions.svg" width="100%" alt="Contribution heatmap for the last 12 months." />
+</p> -->
+
+<!-- <sub>Cards under <code>assets/generated/</code> are rebuilt daily by <code>.github/workflows/profile-refresh.yml</code>.</sub> -->

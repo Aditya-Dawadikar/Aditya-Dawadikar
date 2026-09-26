@@ -1,0 +1,15 @@
+{
+  "login": "Aditya-Dawadikar",
+  "name": "Aditya Dawadikar",
+  "terminal_title": "aditya@sjsu: ~",
+  "roles": ["Backend", "Distributed Systems", "Agentic AI"],
+  "education": "MS Computer Science",
+  "stack": [
+    { "group": "languages", "items": ["Python", "Go", "Java", "JavaScript", "TypeScript"] },
+    { "group": "frameworks", "items": ["FastAPI", "React", "Express", "Spring"] },
+    { "group": "data", "items": ["Postgres", "Redis", "MongoDB", "ElasticSearch", "Kafka"] },
+    { "group": "infra", "items": ["Docker", "Kubernetes", "GCP", "AWS"] },
+    { "group": "focus", "items": ["distributed systems", "observability", "RAG / agents", "LLM evaluation"] }
+  ],
+  "languages_exclude": ["Jupyter Notebook", "HTML", "CSS", "SCSS", "Mermaid"]
+}

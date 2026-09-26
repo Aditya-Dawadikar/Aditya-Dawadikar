@@ -1,0 +1,65 @@
+{
+  "systems": [
+    {
+      "slug": "agent-os",
+      "name": "Agent OS",
+      "summary": "Backend for executing agent tasks, built on FastAPI, Redis Queue and Postgres.",
+      "tags": ["FastAPI", "Redis Queue", "Postgres"],
+      "metrics": [
+        { "value": "170", "label": "submissions" },
+        { "value": "121", "label": "successful completions" },
+        { "value": "5.95s", "label": "completion p50" },
+        { "value": "20.61s", "label": "completion p95" }
+      ],
+      "note": "benchmark: 121 of 170 submissions completed successfully"
+    },
+    {
+      "slug": "rayflux",
+      "name": "RayFlux",
+      "summary": "WebSocket pub/sub system written in Go, load-tested across multiple pods.",
+      "tags": ["Go", "WebSocket", "Pub/Sub"],
+      "metrics": [
+        { "value": "5,974", "label": "requests / sec" },
+        { "value": "160ms", "label": "p95 latency" },
+        { "value": "200", "label": "concurrent users" },
+        { "value": "5", "label": "pods" }
+      ],
+      "note": "load test: 200 concurrent users across 5 pods"
+    },
+    {
+      "slug": "projectycjobs",
+      "name": "ProjectYCJobs",
+      "summary": "Agentic job research and matching platform.",
+      "tags": ["agents", "job research", "matching"],
+      "metrics": [
+        { "value": "FastAPI", "label": "api" },
+        { "value": "React", "label": "client" },
+        { "value": "Postgres", "label": "storage" },
+        { "value": "Redis Streams", "label": "messaging" }
+      ],
+      "note": ""
+    }
+  ],
+  "research": [
+    {
+      "slug": "act-lora",
+      "kind": "research",
+      "name": "Act-LoRA",
+      "summary": "Activation-guided selection of which layers receive adapters during parameter-efficient fine-tuning.",
+      "metrics": [
+        { "value": "~50%", "label": "fewer adapter params" },
+        { "value": "near-baseline", "label": "accuracy" }
+      ]
+    },
+    {
+      "slug": "openevals",
+      "kind": "open-source",
+      "name": "OpenEvals",
+      "summary": "Upstream contribution: a binary classifier evaluator. Plus a proof-of-concept adapter for Laya.",
+      "metrics": [
+        { "value": "evaluator", "label": "binary classifier" },
+        { "value": "adapter", "label": "Laya PoC" }
+      ]
+    }
+  ]
+}
